@@ -1,4 +1,4 @@
-# Eleventy on Elestio
+# 11ty.js on Elestio
 
 This is a minimal example of a Eleventy static site created using @11ty/eleventy
 
