@@ -1,6 +1,6 @@
 # Eleventy on Elestio
 
-This is a minimal example of a Eleventy static site created with @11ty/eleventy.
+This is a minimal example of a Eleventy static site created using @11ty/eleventy
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
@@ -8,13 +8,13 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 
 <img src="images\screenshot-1.jpg" alt="screenshot of the Eleventy app" width="100%" />
 
-# Steps to clone this repository and run locally.
+# Steps to clone this repository and run locally
 
 
 ### Step 1: Clone this repository
 
 ```
-git clone https://github.com/elestio-examples/eleventy.git
+git clone YOUR_REPOSITORY_URL
 ```
 ### Step 2: Go to project folder
 
